@@ -2,5 +2,5 @@
 
 from distutils.core import setup
 
-setup(name='clr', py_modules=['clr_callback'])
+setup(name='AdamW', py_modules=['AdamW'])
 
